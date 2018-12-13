@@ -1,2 +1,2 @@
 # hydrobot
-Στο έγγραφο hydrobot.doc υπάρχει η σχεδίαση του project.
+Στο repository υπάρχει η σχεδίαση του project.
